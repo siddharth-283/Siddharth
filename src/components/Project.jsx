@@ -9,7 +9,6 @@ function Project({ title, projectVariant, proImage, projectLink }) {
     //  title = Project 1 
     //  projectTitle = project-1 
     const projectTitle = title.toLowerCase()
-    console.log(projectTitle);
     return (
         <motion.div variants={projectVariant} className="relative">
 
