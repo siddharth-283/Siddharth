@@ -2,7 +2,7 @@ import SocialMediaIcons from "../components/SocialMediaIcons";
 import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
 import AnchorLink from "react-anchor-link-smooth-scroll";
-import ProfileImg from "../assets/profile-image.png";
+import ProfileImg from "../assets/profile-image1.png";
 
 const Landing = ({ setSelectedPage }) => {
   const isAboveLarge = useMediaQuery("(min-width: 1060px)");
@@ -16,11 +16,11 @@ const Landing = ({ setSelectedPage }) => {
         {isAboveLarge ? (
           <div
             className="relative z-0 ml-20 before:absolute before:-top-20 before:-left-20 before:rounded-t-[400px]
-            before:w-full before:max-w-[400px] md:before:max-w-[600px] before:h-full before:border-2 before:border-blue before:z-[-1]"
+            before:w-full before:max-w-[400px] md:before:max-w-[600px] before:h-full before:border-2  before:z-[-1]"
           >
             <img
               alt="profile"
-              className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
+              className="hover:filter  transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
               src={ProfileImg}
             />
           </div>
@@ -57,8 +57,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+          My name is Siddharth Yadav, and I am a  Front-End web developer. I am currently pursuing my B.Tech in Parul University and have been passionate about coding for several years. I take pride in my ability to develop user-friendly and intuitive web applications, paying attention to even the smallest details. As a coding enthusiast, I am always eager to learn and take on new challenges, striving to stay up-to-date with the latest web development trends and technologies. I believe that my strong work ethic and problem-solving skills make me a valuable asset to any team.
           </p>
         </motion.div>
 

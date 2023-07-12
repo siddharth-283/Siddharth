@@ -25,8 +25,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          These are some of my Areas where I can help you up.
           </p>
         </motion.div>
 
@@ -73,9 +72,7 @@ const MySkills = () => {
             <div className='w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]' />
           </div>
           <p className='mt-5'>
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+          As someone with more than one year of experience in web development, I have developed a strong foundation in programming and possess excellent knowledge in both areas. I have gained practical experience and a deeper understanding of web development technologies. I feel confident in my ability to solve complex problems, write efficient and scalable code, and work collaboratively with a team of developers.
           </p>
         </motion.div>
 
@@ -99,10 +96,7 @@ const MySkills = () => {
             <div className='w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]' />
           </div>
           <p className='mt-5'>
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+          As an innovative individual, I am constantly seeking out new and creative ways to approach challenges and achieve success. In addition to my technical skills, I am also constantly generating new business ideas that I believe can be successfully implemented.
           </p>
         </motion.div>
 
@@ -126,10 +120,7 @@ const MySkills = () => {
             <div className='w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]' />
           </div>
           <p className='mt-5'>
-          Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+          As an imaginative person, I am always seeking out new ideas and ways of thinking that can help me approach challenges in unique and creative ways. I have a natural curiosity about the world around me and enjoy staying up to date on current events and trends, often using this knowledge to fuel my imagination and brainstorm new possibilities. When faced with a particular situation or problem, I find myself naturally imagining different scenarios and outcomes, constantly exploring what could be done differently or better.
           </p>
         </motion.div>
       </div>
