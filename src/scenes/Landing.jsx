@@ -57,7 +57,8 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-          My name is Siddharth Yadav, and I am a  Front-End web developer. I am currently pursuing my B.Tech in Parul University and have been passionate about coding for several years. I take pride in my ability to develop user-friendly and intuitive web applications, paying attention to even the smallest details. As a coding enthusiast, I am always eager to learn and take on new challenges, striving to stay up-to-date with the latest web development trends and technologies. I believe that my strong work ethic and problem-solving skills make me a valuable asset to any team.
+            My name is Siddharth Yadav, and I am a React.js developer. I am currently pursuing my B.Tech in Parul University and have been passionate about coding for several years. I take pride in my ability to develop user-friendly and intuitive web applications, paying attention to even the smallest details. As a coding enthusiast, I am always eager to learn and take on new challenges, striving to stay up-to-date with the latest web development trends and technologies. I believe that my strong work ethic and problem-solving skills make me a valuable asset to any team.
+
           </p>
         </motion.div>
 
